@@ -399,7 +399,15 @@
 -analyzer:"D:/Unity/2023.2.11f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"D:/Unity/2023.2.11f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"D:/Unity/2023.2.11f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
+"Assets/Scripts/Door.cs"
+"Assets/Scripts/Flashlight.cs"
+"Assets/Scripts/FlickeringLight.cs"
+"Assets/Scripts/IInteractable.cs"
+"Assets/Scripts/LightSwitch.cs"
+"Assets/Scripts/PickupItem.cs"
+"Assets/Scripts/PlayerInteraction.cs"
 "Assets/Scripts/SC_FPSController.cs"
+"Assets/Scripts/TriggerMoveObject.cs"
 -langversion:9.0
 
 /deterministic
